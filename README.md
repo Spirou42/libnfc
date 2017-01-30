@@ -12,6 +12,8 @@
 * See AUTHORS file
 -*
 ```
+# This is fork to be used by my NFC - Tests 
+For the real __thing__, please go to [nfc-tools](https://github.com/nfc-tools/libnfc)
 
 General Information
 ===================
